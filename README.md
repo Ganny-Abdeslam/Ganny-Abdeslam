@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<a href=""><img src="https://img.shields.io/twitter/follow/And_Reyw?style=social" alt="Twitter"></a>
-  <a href=""><img src="https://img.shields.io/badge/LinkedIn--blueviolet.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="#"><img src="https://img.shields.io/twitter/follow/And_Reyw?style=social" alt="Twitter"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn--blueviolet.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <br>
 <br>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 <h2 align="center" >I am looking forward to gain experience, collaborate and build amazing products for the world!   </h2>
 <p>Application developer and data engineer passionate about using machine learning to impact business decisions and discover meaningful insights. with knowledge in deployment, implementation, and maintenance web applications. Always looking for ways to designs fast algorithms that help robust tasks.</p>
 
-<a href="">My contributions<a>
+<a href="#">My contributions<a>
 
 <img align="center" alt="Rafa-pic" height="250" style="border-radius:50px;" src="https://c.tenor.com/liF3pWHD5CwAAAAC/hu-tao-genshin-impact.gif">
