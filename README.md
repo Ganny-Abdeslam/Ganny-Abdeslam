@@ -47,5 +47,3 @@ Here are some ideas to get you started:
 <br>
 <h2 align="center" >I am looking forward to gain experience, collaborate and build amazing products for the world!   </h2>
 <p>Application developer and data engineer passionate about using machine learning to impact business decisions and discover meaningful insights. with knowledge in deployment, implementation, and maintenance web applications. Always looking for ways to designs fast algorithms that help robust tasks.</p>
-
-<a href="#">My contributions<a>
